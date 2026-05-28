@@ -1,52 +1,53 @@
-````md id="q7pl2x"
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=260&section=header&text=Krishna%20Rastogi&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/93b83e59-da81-4588-8f7a-442614f51e89" width="220"/>
-
-<br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Frontend+Developer;Open+Source+Learner;DSA+Enthusiast" />
-
-<br><br>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-8a8f31df-46e0-4d1a-8f91-7e902eb4f5b4.gif"/>
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<table>
+<tr>
+
+<td width="40%">
+
+<img src="https://github.com/user-attachments/assets/93b83e59-da81-4588-8f7a-442614f51e89" width="100%"/>
+
+</td>
+
+<td width="60%">
 
 # 👨‍💻 About Me
 
-```java
-public class KrishnaRastogi {
+🚀 Passionate Full Stack Developer who loves building modern and responsive web applications.
 
-    String role = "Full Stack Developer";
-    String language = "Java";
-    String college = "GLA University";
+☕ Java Developer with strong interest in Data Structures & Algorithms.
 
-    String[] skills = {
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "NodeJS",
-        "MongoDB"
-    };
+🎓 B.Tech CSE Student at **GLA University, Mathura**
 
-}
-````
+🌱 Currently learning:
 
-* 🚀 Passionate about coding and development
-* 🌱 Currently learning Full Stack Development & DSA
-* 💻 Love building modern web applications
-* 🎯 Goal: Crack top product-based companies
-* 📫 Email: **[krishnarastogi844@gmail.com](mailto:krishnarastogi844@gmail.com)**
+* Full Stack Development
+* DSA in Java
+* Backend Development
+
+💻 Tech Stack:
+HTML • CSS • JavaScript • React • NodeJS • MongoDB • Git • GitHub
+
+🎯 Goal:
+Crack top product-based companies and become a skilled Software Engineer.
+
+⚡ Fun Fact:
+I enjoy turning ideas into real-world projects through code.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -130,17 +131,6 @@ public class KrishnaRastogi {
 
 ---
 
-# 🚀 Featured Projects
-
-| Project              | Tech                    |
-| -------------------- | ----------------------- |
-| 💻 Portfolio Website | HTML • CSS • JavaScript |
-| ☕ Java DSA           | Java                    |
-| 🌦 Weather App       | API • JavaScript        |
-| 📝 Notes App         | MERN Stack              |
-
----
-
 <div align="center">
 
 ### 💖 Thanks for visiting my profile
@@ -152,4 +142,3 @@ public class KrishnaRastogi {
 <img src="https://komarev.com/ghpvc/?username=rastogi-sahab-001&style=for-the-badge&color=00f7ff"/>
 
 </div>
-```
