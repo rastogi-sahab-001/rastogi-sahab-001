@@ -1,4 +1,4 @@
-````md id="m4k8zp"
+id="m4k8zp"
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Krishna%20Rastogi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
@@ -34,7 +34,7 @@ public class KrishnaRastogi {
     };
 
 }
-````
+
 
 * 🚀 Passionate about coding and development
 * 🌱 Currently learning Full Stack Development & DSA
