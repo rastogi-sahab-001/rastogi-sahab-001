@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Krishna Rastogi
+bhai kuch isse badiya do # 💫 Hi 👋, I'm Krishna Rastogi
 **A passionate computer Science Engineer || Full stack developer ||**
 
 Email Me 👉 ✉️ **krishnarastogi844@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -15,20 +15,7 @@ Email Me 👉 ✉️ **krishnarastogi844@gmail.com** For Collaboration/Project o
 ![](https://github-profile-trophy.vercel.app/?username=rastogi-sahab-001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-```md
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rastogi_sahab_001)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-rastogi-843235325)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/krishnaras16821)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnarastogi844@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rastogi-sahab-001)
-```
- 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krishna Rastogi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rastogi_sahab_001) [![LinkedIn](https://www.linkedin.com/in/krishna-rastogi-843235325?utm_source=...hare_via&utm)](https://linkedin.com/in/Krishna Rastogi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@krishnaras16821) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnarastogi844@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
@@ -68,4 +55,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->    iss code mein sab link sahi karo jese linkedin like
+-->
