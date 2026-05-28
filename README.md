@@ -4,11 +4,11 @@
 Email Me 👉 ✉️ **krishnarastogi844@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:**Frontend 
-- 🌱 **I’m currently learning:** GLA University,Mathura
-- 👯 **I’m looking to collaborate on:** Web developer
+- 🌱 **I’m currently learning:** GLA University, Mathura
+- 👯 **I’m looking to collaborate on:* Web developer * 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** krishnarastogi844@gmail.com
-- 😄 **Pronouns:** Krishna Sir
+- 😄 **Pronouns:** Krishna Bhaiya (KR)
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
 - ## 🏆 GitHub Trophies
