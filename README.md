@@ -1,58 +1,131 @@
-bhai kuch isse badiya do # 💫 Hi 👋, I'm Krishna Rastogi
-**A passionate computer Science Engineer || Full stack developer ||**
-
-Email Me 👉 ✉️ **krishnarastogi844@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:**Frontend 
-- 🌱 **I’m currently learning:** GLA University, Mathura
-- 👯 **I’m looking to collaborate on:* Web developer * 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** krishnarastogi844@gmail.com
-- 😄 **Pronouns:** Krishna Bhaiya (KR)
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 
-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rastogi-sahab-001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krishna Rastogi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rastogi_sahab_001) [![LinkedIn](https://www.linkedin.com/in/krishna-rastogi-843235325?utm_source=...hare_via&utm)](https://linkedin.com/in/Krishna Rastogi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@krishnaras16821) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnarastogi844@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
+````md id="m4k8zp"
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Krishna%20Rastogi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
+
+<img src="https://github.com/user-attachments/assets/93b83e59-da81-4588-8f7a-442614f51e89" width="220" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Frontend+Developer;DSA+Enthusiast;Open+Source+Learner" />
+
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rastogi-sahab-001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rastogi-sahab-001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rastogi-sahab-001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
+<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 👨‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rastogi-sahab-001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```java
+public class KrishnaRastogi {
+
+    String role = "Full Stack Developer";
+    String language = "Java";
+    String college = "GLA University";
+
+    String[] skills = {
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "NodeJS",
+        "MongoDB"
+    };
+
+}
+````
+
+* 🚀 Passionate about coding and development
+* 🌱 Currently learning Full Stack Development & DSA
+* 💻 Love building modern web applications
+* 🎯 Goal: Crack top product-based companies
+* 📫 Email: **[krishnarastogi844@gmail.com](mailto:krishnarastogi844@gmail.com)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rastogi-sahab-001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
 
-<!--
-**rastogi-sahab-001/rastogi-sahab-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="https://instagram.com/rastogi_sahab_001">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/krishna-rastogi-843235325">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://x.com/krishnaras16821">
+<img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:krishnarastogi844@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://github.com/rastogi-sahab-001">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,react,nodejs,mongodb,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rastogi-sahab-001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rastogi-sahab-001&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rastogi-sahab-001&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rastogi-sahab-001&theme=algolia&no-frame=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project              | Tech                    |
+| -------------------- | ----------------------- |
+| 💻 Portfolio Website | HTML • CSS • JavaScript |
+| ☕ Java DSA           | Java                    |
+| 🌦 Weather App       | API • JavaScript        |
+| 📝 Notes App         | MERN Stack              |
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile
+
+⭐ Keep Learning • Keep Building • Keep Growing ⭐
+
+</div>
+```
