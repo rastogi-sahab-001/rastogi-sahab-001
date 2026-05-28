@@ -1,7 +1,9 @@
-id="m4k8zp"
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Krishna%20Rastogi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=240&section=header&text=Krishna%20Rastogi"/>
+
+</div>
 
 <img src="https://github.com/user-attachments/assets/93b83e59-da81-4588-8f7a-442614f51e89" width="220" />
 
