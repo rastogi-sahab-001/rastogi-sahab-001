@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=260&section=header&text=Krishna%20Rastogi&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<br>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Frontend+Developer;Open+Source+Learner;DSA+Enthusiast" />
 
